@@ -17,7 +17,7 @@ This project aims to predict the occurrence of forest fires using machine learni
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/rishitgupta2003/forest-fire-prediction.git
+   git clone https://github.com/Dev-Bhandari/Forest-Fire-Prediction.git
    cd forest-fire-prediction
    ```
 
